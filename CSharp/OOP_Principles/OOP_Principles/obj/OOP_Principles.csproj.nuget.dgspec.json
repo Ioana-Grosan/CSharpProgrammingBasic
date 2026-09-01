@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tools Testing\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj": {}
+    "C:\\Users\\ioana.grosan\\source\\repos\\CSharpProgrammingBasic\\CSharp\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj": {}
   },
   "projects": {
-    "C:\\Tools Testing\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj": {
+    "C:\\Users\\ioana.grosan\\source\\repos\\CSharpProgrammingBasic\\CSharp\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tools Testing\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj",
+        "projectUniqueName": "C:\\Users\\ioana.grosan\\source\\repos\\CSharpProgrammingBasic\\CSharp\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj",
         "projectName": "OOP_Principles",
-        "projectPath": "C:\\Tools Testing\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj",
+        "projectPath": "C:\\Users\\ioana.grosan\\source\\repos\\CSharpProgrammingBasic\\CSharp\\OOP_Principles\\OOP_Principles\\OOP_Principles.csproj",
         "packagesPath": "C:\\Users\\ioana.grosan\\.nuget\\packages\\",
-        "outputPath": "C:\\Tools Testing\\OOP_Principles\\OOP_Principles\\obj\\",
+        "outputPath": "C:\\Users\\ioana.grosan\\source\\repos\\CSharpProgrammingBasic\\CSharp\\OOP_Principles\\OOP_Principles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ioana.grosan\\AppData\\Roaming\\NuGet\\NuGet.Config",

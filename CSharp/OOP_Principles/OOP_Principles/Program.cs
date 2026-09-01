@@ -11,8 +11,8 @@
             Dog dog = new Dog();
             Bird bird = new Bird();
 
-            cat.AboutCat();
-            cat.AnimalPlay();
+            cat.AboutCat(); 
+            cat.AnimalPlay(); 
             cat.AnimalRun();
             dog.AboutDog();
             dog.AnimalRun(); 
