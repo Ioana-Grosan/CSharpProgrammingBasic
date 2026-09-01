@@ -1,0 +1,14 @@
+C:\Tools Testing\Testing Practice\Testing Practice\bin\Debug\net10.0\Testing Practice.exe
+C:\Tools Testing\Testing Practice\Testing Practice\bin\Debug\net10.0\Testing Practice.deps.json
+C:\Tools Testing\Testing Practice\Testing Practice\bin\Debug\net10.0\Testing Practice.runtimeconfig.json
+C:\Tools Testing\Testing Practice\Testing Practice\bin\Debug\net10.0\Testing Practice.dll
+C:\Tools Testing\Testing Practice\Testing Practice\bin\Debug\net10.0\Testing Practice.pdb
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.AssemblyInfoInputs.cache
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.AssemblyInfo.cs
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.csproj.CoreCompileInputs.cache
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.dll
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\refint\Testing Practice.dll
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.pdb
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\Testing Practice.genruntimeconfig.cache
+C:\Tools Testing\Testing Practice\Testing Practice\obj\Debug\net10.0\ref\Testing Practice.dll

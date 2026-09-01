@@ -1,0 +1,14 @@
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\bin\Debug\net10.0\Observer_Pattern.exe
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\bin\Debug\net10.0\Observer_Pattern.deps.json
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\bin\Debug\net10.0\Observer_Pattern.runtimeconfig.json
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\bin\Debug\net10.0\Observer_Pattern.dll
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\bin\Debug\net10.0\Observer_Pattern.pdb
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.AssemblyInfoInputs.cache
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.AssemblyInfo.cs
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.csproj.CoreCompileInputs.cache
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.dll
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\refint\Observer_Pattern.dll
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.pdb
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\Observer_Pattern.genruntimeconfig.cache
+C:\Tools Testing\Observer_Pattern\Observer_Pattern\obj\Debug\net10.0\ref\Observer_Pattern.dll

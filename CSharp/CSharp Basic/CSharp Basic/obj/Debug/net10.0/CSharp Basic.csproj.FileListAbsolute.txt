@@ -1,0 +1,14 @@
+C:\Tools Testing\CSharp Basic\CSharp Basic\bin\Debug\net10.0\CSharp Basic.exe
+C:\Tools Testing\CSharp Basic\CSharp Basic\bin\Debug\net10.0\CSharp Basic.deps.json
+C:\Tools Testing\CSharp Basic\CSharp Basic\bin\Debug\net10.0\CSharp Basic.runtimeconfig.json
+C:\Tools Testing\CSharp Basic\CSharp Basic\bin\Debug\net10.0\CSharp Basic.dll
+C:\Tools Testing\CSharp Basic\CSharp Basic\bin\Debug\net10.0\CSharp Basic.pdb
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.AssemblyInfoInputs.cache
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.AssemblyInfo.cs
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.csproj.CoreCompileInputs.cache
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.dll
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\refint\CSharp Basic.dll
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.pdb
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\CSharp Basic.genruntimeconfig.cache
+C:\Tools Testing\CSharp Basic\CSharp Basic\obj\Debug\net10.0\ref\CSharp Basic.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataSets>
+
+	<dataSet_1		description =" Wrong Username">
+		<username>mail@gmail.com</username>
+		<password>Password1</password>
+
+	</dataSet_1>
+
+<dataSet_2	description =" Wrong Password">
+	<username>ioana_g</username>
+	<password>Testing2026~!_</password>
+
+</dataSet_2>
+
+
+
+	<dataSet_3	description =" Empty Password">
+		<username>mail2@gmail.com</username>
+		<password></password>
+
+
+	</dataSet_3>
+</dataSets>

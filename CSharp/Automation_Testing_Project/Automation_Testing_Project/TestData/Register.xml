@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataSets>
+	<dataSet_1>
+		<FirstName>Ioana</FirstName>
+		<LastName>Gr</LastName>
+		<E_mail>@yahoo.com</E_mail>
+		<Telephone>002244</Telephone>
+		<Fax>002244</Fax>
+		<Company>Home</Company>
+		<Address_1>Home_1</Address_1>
+		<Address_2>Home_2</Address_2>
+		<City>Rome</City>
+		<Region_State>Nord</Region_State>
+		<Zip_code>12345</Zip_code>
+		<Country>USA</Country>
+		<Login_name>ipdm</Login_name>
+		<password>123456~!</password>
+		<password_confirm>123456~!</password_confirm>
+
+
+	</dataSet_1>
+	
+	
+	
+	
+	
+	
+	
+</dataSets>

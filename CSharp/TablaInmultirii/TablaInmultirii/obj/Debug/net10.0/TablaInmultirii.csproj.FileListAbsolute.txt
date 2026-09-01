@@ -1,0 +1,14 @@
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\bin\Debug\net10.0\TablaInmultirii.exe
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\bin\Debug\net10.0\TablaInmultirii.deps.json
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\bin\Debug\net10.0\TablaInmultirii.runtimeconfig.json
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\bin\Debug\net10.0\TablaInmultirii.dll
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\bin\Debug\net10.0\TablaInmultirii.pdb
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.AssemblyInfoInputs.cache
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.AssemblyInfo.cs
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.csproj.CoreCompileInputs.cache
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.dll
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\refint\TablaInmultirii.dll
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.pdb
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\TablaInmultirii.genruntimeconfig.cache
+C:\Tools Testing\TablaInmultirii\TablaInmultirii\obj\Debug\net10.0\ref\TablaInmultirii.dll

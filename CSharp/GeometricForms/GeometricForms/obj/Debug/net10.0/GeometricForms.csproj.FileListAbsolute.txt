@@ -1,0 +1,14 @@
+C:\Tools Testing\GeometricForms\GeometricForms\bin\Debug\net10.0\GeometricForms.exe
+C:\Tools Testing\GeometricForms\GeometricForms\bin\Debug\net10.0\GeometricForms.deps.json
+C:\Tools Testing\GeometricForms\GeometricForms\bin\Debug\net10.0\GeometricForms.runtimeconfig.json
+C:\Tools Testing\GeometricForms\GeometricForms\bin\Debug\net10.0\GeometricForms.dll
+C:\Tools Testing\GeometricForms\GeometricForms\bin\Debug\net10.0\GeometricForms.pdb
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.AssemblyInfoInputs.cache
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.AssemblyInfo.cs
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.csproj.CoreCompileInputs.cache
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.dll
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\refint\GeometricForms.dll
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.pdb
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\GeometricForms.genruntimeconfig.cache
+C:\Tools Testing\GeometricForms\GeometricForms\obj\Debug\net10.0\ref\GeometricForms.dll

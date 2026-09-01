@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxTyWqCWajg=",
+  "success": true,
+  "projectFilePath": "C:\\Tools Testing\\Automation_Testing_Project\\Automation_Testing_Project\\Automation_Testing_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.codecoverage\\18.9.0\\microsoft.codecoverage.18.9.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.net.test.sdk\\18.9.0\\microsoft.net.test.sdk.18.9.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.3.3\\microsoft.testing.extensions.telemetry.2.3.3.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.3.3\\microsoft.testing.extensions.trxreport.abstractions.2.3.3.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.3.3\\microsoft.testing.extensions.vstestbridge.2.3.3.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testing.platform\\2.3.3\\microsoft.testing.platform.2.3.3.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.3.3\\microsoft.testing.platform.msbuild.2.3.3.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.9.0\\microsoft.testplatform.objectmodel.18.9.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\microsoft.testplatform.testhost\\18.9.0\\microsoft.testplatform.testhost.18.9.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\nunit\\4.6.1\\nunit.4.6.1.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\nunit3testadapter\\6.3.0\\nunit3testadapter.6.3.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\selenium.support\\4.48.0\\selenium.support.4.48.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\selenium.webdriver\\4.48.0\\selenium.webdriver.4.48.0.nupkg.sha512",
+    "C:\\Users\\ioana.grosan\\.nuget\\packages\\selenium.webdriver.chromedriver\\152.0.7977.6400\\selenium.webdriver.chromedriver.152.0.7977.6400.nupkg.sha512"
+  ],
+  "logs": []
+}

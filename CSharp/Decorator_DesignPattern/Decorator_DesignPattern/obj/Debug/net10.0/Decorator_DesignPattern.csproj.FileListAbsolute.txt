@@ -1,0 +1,14 @@
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\bin\Debug\net10.0\Decorator_DesignPattern.exe
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\bin\Debug\net10.0\Decorator_DesignPattern.deps.json
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\bin\Debug\net10.0\Decorator_DesignPattern.runtimeconfig.json
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\bin\Debug\net10.0\Decorator_DesignPattern.dll
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\bin\Debug\net10.0\Decorator_DesignPattern.pdb
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.AssemblyInfoInputs.cache
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.AssemblyInfo.cs
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.csproj.CoreCompileInputs.cache
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.dll
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\refint\Decorator_DesignPattern.dll
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.pdb
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\Decorator_DesignPattern.genruntimeconfig.cache
+C:\Tools Testing\Decorator_DesignPattern\Decorator_DesignPattern\obj\Debug\net10.0\ref\Decorator_DesignPattern.dll

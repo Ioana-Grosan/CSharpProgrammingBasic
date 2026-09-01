@@ -1,0 +1,14 @@
+C:\Tools Testing\Exercises Claude\Exercises Claude\bin\Debug\net10.0\Exercises Claude.exe
+C:\Tools Testing\Exercises Claude\Exercises Claude\bin\Debug\net10.0\Exercises Claude.deps.json
+C:\Tools Testing\Exercises Claude\Exercises Claude\bin\Debug\net10.0\Exercises Claude.runtimeconfig.json
+C:\Tools Testing\Exercises Claude\Exercises Claude\bin\Debug\net10.0\Exercises Claude.dll
+C:\Tools Testing\Exercises Claude\Exercises Claude\bin\Debug\net10.0\Exercises Claude.pdb
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.AssemblyInfoInputs.cache
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.AssemblyInfo.cs
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.csproj.CoreCompileInputs.cache
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.dll
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\refint\Exercises Claude.dll
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.pdb
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\Exercises Claude.genruntimeconfig.cache
+C:\Tools Testing\Exercises Claude\Exercises Claude\obj\Debug\net10.0\ref\Exercises Claude.dll
